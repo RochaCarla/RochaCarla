@@ -1,6 +1,6 @@
 ### Hi there, I'm Carla Rocha 👋
 
-<img align='right' alt="gif with text We can create something better" src="https://media.giphy.com/media/3ov9k5wE5YQjFPDfhe/giphy.gif" width="230"/>
+<img align='right' alt="Collaboration" src="https://media.giphy.com/media/3ov9k5wE5YQjFPDfhe/giphy.gif" width="230"/>
 
 # ⚡️ About Me
 - 👯 I like to colaborate in diverse communities
@@ -16,7 +16,9 @@
 - 📫 How to reach me: caguiar@unb.br or rocha.carla@gmail.com
 
 
-# Hi there, I am Bruna Moreira 👋
+<img align='center' alt="gcollaboration 2" src="https://media.giphy.com/media/xTiTnIOWWE55fuRt1S/giphy.gif" width="430"/>
+
+
 
 
 
