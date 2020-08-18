@@ -1,5 +1,7 @@
 ### Hi there, I'm Carla Rocha 👋
 
+<img align='right' alt="gif with text We can create something better" src="https://media.giphy.com/media/3ov9k5wE5YQjFPDfhe/giphy.gif" width="230"/>
+
 # ⚡️ About Me
 - 👯 I like to colaborate in diverse communities
 - I'm a professor at the University of Brasília (UnB) 
@@ -16,6 +18,6 @@
 
 # Hi there, I am Bruna Moreira 👋
 
-<img align='right' alt="gif with text We can create something better" src="https://media.giphy.com/media/3ov9k5wE5YQjFPDfhe/giphy.gif" width="230"/>
+
 
 
