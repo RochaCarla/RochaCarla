@@ -12,11 +12,13 @@
 - I am part of BOSS - A mentorship program to engage women in contributint to Open Source -  [BOSS](https://github.com/BOSS-BigOpenSourceSister)
 - ⚡ Fun fact: 
 
+<img align='right' alt="gcollaboration 2" src="https://media.giphy.com/media/xTiTnIOWWE55fuRt1S/giphy.gif" width="330"/>
+
 ## 📬 Find me and get in touch
 - 📫 How to reach me: caguiar@unb.br or rocha.carla@gmail.com
 
 
-<img align='center' alt="gcollaboration 2" src="https://media.giphy.com/media/xTiTnIOWWE55fuRt1S/giphy.gif" width="430"/>
+
 
 
 
