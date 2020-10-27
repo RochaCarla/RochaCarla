@@ -10,7 +10,7 @@
 ##  What I am doing
 - 🌱 I’m currently teaching DevOps/FLOSS course [MDS](https://github.com/fga-eps-mds)
 - I am part of BOSS - A mentorship program to engage women in contributint to Open Source -  [BOSS](https://github.com/BOSS-BigOpenSourceSister)
-- ⚡ Fun fact: 
+- I wish I had more time to stand up paddle, play accoustic guitar, hang out with friends and family :P
 
 <img align='right' alt="gcollaboration 2" src="https://media.giphy.com/media/xTiTnIOWWE55fuRt1S/giphy.gif" width="330"/>
 
