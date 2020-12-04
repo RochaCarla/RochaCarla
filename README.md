@@ -1,4 +1,4 @@
-### Hi there, I'm Carla Rocha 👋
+# Hi there, I'm Carla Rocha 👋
 
 <img align='right' alt="Collaboration" src="https://media.giphy.com/media/3ov9k5wE5YQjFPDfhe/giphy.gif" width="230"/>
 
@@ -8,8 +8,9 @@
 
 
 ##  What I am doing
+
+- I am part of this incredible program BOSS - A mentorship program to engage women in contributing to Open Source -  [BOSS](https://github.com/BOSS-BigOpenSourceSister)
 - 🌱 I’m currently teaching DevOps/FLOSS course [MDS](https://github.com/fga-eps-mds)
-- I am part of BOSS - A mentorship program to engage women in contributint to Open Source -  [BOSS](https://github.com/BOSS-BigOpenSourceSister)
 - I wish I had more time to stand up paddle, play accoustic guitar, hang out with friends and family :P
 
 <img align='right' alt="gcollaboration 2" src="https://media.giphy.com/media/xTiTnIOWWE55fuRt1S/giphy.gif" width="330"/>
@@ -19,6 +20,18 @@
 
 
 
+# Oie! Eu sou a Carla Rocha 👋
+
+- Eu amo ensinar com Software Livre
+- Sou professora de Engenharia de Software na Universidade de Brasília (UnB)
+
+## O que eu faço
+- Faço parte dessa iniciativa incrivel chamada BOSS - uma iniciativa para engajar mulheres em Software Livre - faça parte também :P - [BOSS](https://github.com/BOSS-BigOpenSourceSister)
+- 🌱  Eu ministro aulas de DevOps/FLOSS na UnB [MDS](https://github.com/fga-eps-mds)
+- Gostaria de ter mais tempo para fazer SUP, tocar violão, e sair com amigos e familia :P
+
+## 📬Como entrar em contato
+- Sempre aberta a colaborar e novas parcerias: caguiar@unb.br e rocha.carla@gmail.com
 
 
 
