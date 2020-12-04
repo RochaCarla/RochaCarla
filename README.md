@@ -2,7 +2,7 @@
 
 <img align='right' alt="Collaboration" src="https://media.giphy.com/media/3ov9k5wE5YQjFPDfhe/giphy.gif" width="230"/>
 
-# ⚡️ About Me
+
 - 👯 I love teaching Open Source  :P
 - I'm a professor at the University of Brasília (UnB) 
 
