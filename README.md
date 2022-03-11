@@ -27,7 +27,7 @@
 
 ## O que eu faço
 - Faço parte dessa iniciativa incrivel chamada BOSS - uma iniciativa para engajar mulheres em Software Livre - faça parte também :P - [BOSS](https://github.com/BOSS-BigOpenSourceSister)
-- 🌱  Eu ministro aulas de DevOps/FLOSS na UnB [MDS](https://github.com/fga-eps-mds)
+- 🌱  Eu ministro aulas de DevOps/FLOSS na UnB [MDS](https://github.com/fga-eps-mds) e [GCES](https://github.com/FGA-GCES/A-disciplina)
 - Gostaria de ter mais tempo para fazer SUP, tocar violão, e sair com amigos e familia :P
 
 ## 📬Como entrar em contato
