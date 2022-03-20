@@ -9,7 +9,7 @@
 
 ##  What I am doing
 
-- I am part of this incredible program BOSS - A mentorship program to engage women in contributing to Open Source -  [BOSS](https://github.com/BOSS-BigOpenSourceSister)
+- I am part of this incredible program BOSS - A mentorship program to engage women in contributing to Open Source -  [BOSS](https://github.com/BOSS-BigOpenSourceSibling)
 - 🌱 I’m currently teaching DevOps/FLOSS course [MDS](https://github.com/fga-eps-mds) and [GCES](https://github.com/FGA-GCES/A-disciplina)
 - I wish I had more time to stand up paddle, play accoustic guitar, hang out with friends and family :P
 
@@ -26,7 +26,7 @@
 - Sou professora de Engenharia de Software na Universidade de Brasília (UnB)
 
 ## O que eu faço
-- Faço parte dessa iniciativa incrivel chamada BOSS - uma iniciativa para engajar mulheres em Software Livre - faça parte também :P - [BOSS](https://github.com/BOSS-BigOpenSourceSister)
+- Faço parte dessa iniciativa incrivel chamada BOSS - uma iniciativa para engajar mulheres em Software Livre - faça parte também :P - [BOSS](https://github.com/BOSS-BigOpenSourceSibling)
 - 🌱  Eu ministro aulas de DevOps/FLOSS na UnB [MDS](https://github.com/fga-eps-mds) e [GCES](https://github.com/FGA-GCES/A-disciplina)
 - Gostaria de ter mais tempo para fazer SUP, tocar violão, e sair com amigos e familia :P
 
