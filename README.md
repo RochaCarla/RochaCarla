@@ -33,13 +33,7 @@
 ## 📬Como entrar em contato
 - Sempre aberta a colaborar e novas parcerias: caguiar@unb.br e rocha.carla@gmail.com
 
-#### Rede Sociais!
 
-🏡 [website](carlarocha.org) **|** 
-
-[![Linkedin: Carla Rocha](https://img.shields.io/badge/-Carla Rocha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/carla-rocha-a4287a19)](linkedin.com/in/carla-rocha-a4287a19)
-[![Gmail Badge](https://img.shields.io/badge/-rocha.carla@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rocha.carla@gmail.com)](mailto:rocha.carla@gmail.com)
-[![GitHub Carla Rocha]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)]([https://github.com/RochaCarla](https://github.com/RochaCarla))
 
 ## **GitHub Estatísticas**
 
