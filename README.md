@@ -33,7 +33,29 @@
 ## 📬Como entrar em contato
 - Sempre aberta a colaborar e novas parcerias: caguiar@unb.br e rocha.carla@gmail.com
 
+#### Rede Sociais!
 
+🏡 [website][carlarocha.org] **|** 
+📺 [youtube][[youtube](https://www.youtube.com/channel/UCbZvFMRd5NaPiqj0w4uU8RQ)] **|** 
+👔 [linkedin][linkedin.com/in/carla-rocha-a4287a19]
+
+
+## **GitHub Estatísticas**
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
+
+[website]: https://codedev.ga/
+[twitter]: https://twitter.com/SEUTWITTER
+[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
+[instagram]: https://www.instagram.com/SEUINSTAGRAM/
+[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+<br>
 
 
 
