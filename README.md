@@ -3,7 +3,7 @@
 
 - Eu amo ensinar com Software Livre
 - Sou professora de Engenharia de Software na Universidade de Brasília (UnB)
-- Meu site é [https://carlarocha.org][https://carlarocha.org]
+- Meu site é [https://carlarocha.org](https://carlarocha.org)
 
 ## O que eu faço
 - Faço parte dessa iniciativa incrivel chamada BOSS - uma iniciativa para engajar mulheres em Software Livre - faça parte também :P - [BOSS](https://github.com/BOSS-BigOpenSourceSibling)
